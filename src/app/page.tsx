@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
           <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center">
-      <h1 className="text-4xl mb-4">HR Consulting</h1>
-      <p>Welcome to our Human Resources consulting service.</p>
+      <h1 className="text-4xl mb-4">Meekrab HR</h1>
+      <p>Welcome to the Meekrab family!</p>
 
       <div className="mt-4 space-x-2">
         <Link href="/about">About Us</Link>
